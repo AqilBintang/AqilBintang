@@ -14,7 +14,7 @@
 ## 🎮 Mainkan Flappy Bird di GitHub!
 Coba game ini:
 
-[![Play Flappy Bird](https://img.shields.io/badge/Play-Flappy_Bird-blue?style=for-the-badge&logo=javascript)](https://AqilBintang.github.io/mini-flappy/)
+[![Play Flappy Bird](https://img.shields.io/badge/Play-Flappy_Bird-blue?style=for-the-badge&logo=javascript)](https://aqilbintang.github.io/mini-flappy/)
 
 
   
