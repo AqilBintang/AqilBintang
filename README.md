@@ -11,6 +11,11 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@bintangpradana793) 
+## 🎮 Mainkan Flappy Bird di GitHub!
+Coba game ini:
+
+[![Play Flappy Bird](https://img.shields.io/badge/Play-Flappy_Bird-blue?style=for-the-badge&logo=javascript)](https://AqilBintang.github.io/mini-flappy/)
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
